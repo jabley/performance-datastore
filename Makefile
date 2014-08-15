@@ -1,6 +1,6 @@
 .PHONY: deps test build rm_compiled_self
 
-BINARY := performance_datastore
+BINARY := bin/performance-datastore
 ORG_PATH := github.com/alphagov
 REPO_PATH := $(ORG_PATH)/performance-datastore
 
